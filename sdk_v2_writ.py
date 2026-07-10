@@ -154,32 +154,45 @@ def chip_display_to_sdk(chip, chip_version):
     return f"E{chip[1:].upper()}_{full_ver}"
 
 
-def lookup_mic_rec(series, outlook, chip_version, trumpet_type="M"):
-    """?? series + outlook + chip_version + trumpetType ?? mic@rec ????"""
+def lookup_mic_rec(series, outlook, chip_version, trumpet_type="M", srn=""):
+    """根据 series + outlook + chip_version + trumpetType + srn 查找 mic@rec 字符串。"""
     prefix = "IDP_" + series.upper().replace(" ", "_").replace("-", "-")
     candidates = [f"{prefix}_{chip_version}", prefix, "default"]
+
+    # 计算 srn_key: 与 only_pred_curve.py 逻辑一致
+    if srn == "simulate":
+        srn_key = "0"
+    elif len(srn) == 9:
+        srn_key = "0"
+    elif srn:
+        srn_key = srn[0]
+    else:
+        srn_key = "0"
 
     for key in candidates:
         if key not in mic_rec_mapping:
             continue
         entry = mic_rec_mapping[key]
-        for ol_key in [outlook, "default"]:
+        for ol_key in [outlook, "no_outlook", "default"]:
             if ol_key not in entry:
                 continue
             ol_val = entry[ol_key]
             if isinstance(ol_val, str):
                 return ol_val, key
             if isinstance(ol_val, dict):
-                for tk in [trumpet_type, "no_srn", "default"]:
-                    if tk not in ol_val:
-                        continue
-                    val = ol_val[tk]
+                # 有 no_srn 则直接用，否则按 srn_key 选择
+                if "no_srn" in ol_val:
+                    val = ol_val["no_srn"]
                     if isinstance(val, str):
                         return val, key
                     if isinstance(val, dict):
                         for sub_k in [trumpet_type, "default"]:
                             if sub_k in val:
                                 return val[sub_k], key
+                elif srn_key in ol_val:
+                    return ol_val[srn_key], key
+                elif "default" in ol_val:
+                    return ol_val["default"], key
     return "9446M@31570", "default"
 
 
@@ -206,7 +219,7 @@ def process_one(hipro, api_input, idx=0):
 
     # Step 1: lookup mic/rec
     try:
-        mic_rec_str, mapping_key = lookup_mic_rec(series, outlook, chip_version, api_input.get("trumpetType", "M"))
+        mic_rec_str, mapping_key = lookup_mic_rec(series, outlook, chip_version, api_input.get("trumpetType", "M"), api_input.get("srn", ""))
     except Exception as e:
         raise RuntimeError(f"[step1-lookup_mic_rec] {e}")
 
