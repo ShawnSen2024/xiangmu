@@ -1,0 +1,8 @@
+RIC B230的数据不能跑
+
+[623/714] 00:45:E2:75:10:7D ... [SdkBridge] chip_key: E7111V2_2.7.201
+[SdkBridge] lib: F5300_2.2.7.library
+[SdkBridge] init_lib_params: 1103 个默认参数已写入
+FAIL: failed to set mic=50PE30 MIC rec=['23451 REC', '23451', 'FK-23451-000 REC', 'FK-23451-000']: E_UNKNOWN_ID
+
+E7160SL 1.18 + Charm B230-W + ITC 查出了 "50PE30 MIC@31570"，mic 名在 BTE library 里不存在。按照verify_data.py中的方法，set_mic_rec 失败时，catch 住异常，fallback 到 "9446M@31570" 重试。

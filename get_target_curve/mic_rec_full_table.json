@@ -1,0 +1,2574 @@
+{
+  "e7111v2": {
+    "CIC": {
+      "CHARM K830": {
+        "no_srn": {
+          "mic": "9446 MIC",
+          "rec": "E50DA012 REC"
+        }
+      },
+      "CHARM G630": {
+        "no_srn": {
+          "mic": "9446 MIC",
+          "rec": "E50DA012 REC"
+        }
+      },
+      "CHARM N530": {
+        "no_srn": {
+          "mic": "9446 MIC",
+          "rec": "E50DA012 REC"
+        }
+      },
+      "CHARM E330": {
+        "no_srn": {
+          "mic": "9446 MIC",
+          "rec": "RAB-31761-000 REC"
+        }
+      },
+      "SKYLARK 730": {
+        "no_srn": {
+          "mic": "9446 MIC",
+          "rec": "E50DA012 REC"
+        }
+      },
+      "SKYLARK 630": {
+        "no_srn": {
+          "mic": "9446 MIC",
+          "rec": "E50DA012 REC"
+        }
+      },
+      "SKYLARK 530": {
+        "no_srn": {
+          "mic": "9446 MIC",
+          "rec": "RAB-31761-000 REC"
+        }
+      },
+      "CHARM B230": {
+        "no_srn": {
+          "mic": "9446 MIC",
+          "rec": "RAB-31761-000 REC"
+        }
+      },
+      "SKYLARK 730(PROJECT)": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "E50DA012 REC"
+        }
+      },
+      "E7111V2 UNDEFINED(2.1.50)": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "E50DA012 REC"
+        }
+      },
+      "E7111V2 UNDEFINED(2.2.64)": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "E50DA012 REC"
+        }
+      },
+      "FASCINATING 5300": {
+        "no_srn": {
+          "mic": "50PE30 MIC",
+          "rec": "E50DA012 REC"
+        }
+      },
+      "FASCINATING 3300": {
+        "no_srn": {
+          "mic": "50PE30 MIC",
+          "rec": "E50DA012 REC"
+        }
+      },
+      "FASCINATING 2300": {
+        "no_srn": {
+          "mic": "50PE30 MIC",
+          "rec": "E50DA012 REC"
+        }
+      }
+    },
+    "**CIC": {
+      "CHARM K830": {
+        "1": {
+          "mic": "9446 MIC",
+          "rec": "RDB-33608-000 REC"
+        },
+        "default": {
+          "mic": "9446 MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "CHARM G630": {
+        "1": {
+          "mic": "9446 MIC",
+          "rec": "RDB-33608-000 REC"
+        },
+        "default": {
+          "mic": "9446 MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "CHARM N530": {
+        "1": {
+          "mic": "9446 MIC",
+          "rec": "RDB-33608-000 REC"
+        },
+        "default": {
+          "mic": "9446 MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "CHARM E330": {
+        "1": {
+          "mic": "9446 MIC",
+          "rec": "RDB-33608-000 REC"
+        },
+        "default": {
+          "mic": "9446 MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "SKYLARK 730": {
+        "1": {
+          "mic": "9446 MIC",
+          "rec": "RDB-33608-000 REC"
+        },
+        "default": {
+          "mic": "9446 MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "SKYLARK 630": {
+        "1": {
+          "mic": "9446 MIC",
+          "rec": "RDB-33608-000 REC"
+        },
+        "default": {
+          "mic": "9446 MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "SKYLARK 530": {
+        "1": {
+          "mic": "9446 MIC",
+          "rec": "RDB-33608-000 REC"
+        },
+        "default": {
+          "mic": "9446 MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "CHARM B230": {
+        "1": {
+          "mic": "9446 MIC",
+          "rec": "RDB-33608-000 REC"
+        },
+        "default": {
+          "mic": "9446 MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "SKYLARK 730(PROJECT)": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "FASCINATING 5300": {
+        "1": {
+          "mic": "50PE30 MIC",
+          "rec": "RDB-33608-000 REC"
+        },
+        "default": {
+          "mic": "50PE30 MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "FASCINATING 3300": {
+        "1": {
+          "mic": "50PE30 MIC",
+          "rec": "RDB-33608-000 REC"
+        },
+        "default": {
+          "mic": "50PE30 MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "FASCINATING 2300": {
+        "1": {
+          "mic": "50PE30 MIC",
+          "rec": "RDB-33608-000 REC"
+        },
+        "default": {
+          "mic": "50PE30 MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      }
+    },
+    "MINICIC": {
+      "CHARM K830": {
+        "1": {
+          "mic": "65GB31T MIC",
+          "rec": "E50DA012 REC"
+        },
+        "2": {
+          "mic": "65GB31T MIC",
+          "rec": "GR-31570-000 REC"
+        },
+        "0": {
+          "mic": "65GB31T MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      },
+      "CHARM G630": {
+        "1": {
+          "mic": "65GB31T MIC",
+          "rec": "E50DA012 REC"
+        },
+        "2": {
+          "mic": "65GB31T MIC",
+          "rec": "GR-31570-000 REC"
+        },
+        "0": {
+          "mic": "65GB31T MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      },
+      "CHARM N530": {
+        "1": {
+          "mic": "65GB31T MIC",
+          "rec": "E50DA012 REC"
+        },
+        "2": {
+          "mic": "65GB31T MIC",
+          "rec": "GR-31570-000 REC"
+        },
+        "0": {
+          "mic": "65GB31T MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      },
+      "SKYLARK 730": {
+        "1": {
+          "mic": "65GB31T MIC",
+          "rec": "E50DA012 REC"
+        },
+        "2": {
+          "mic": "65GB31T MIC",
+          "rec": "GR-31570-000 REC"
+        },
+        "0": {
+          "mic": "65GB31T MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      },
+      "SKYLARK 630": {
+        "1": {
+          "mic": "65GB31T MIC",
+          "rec": "E50DA012 REC"
+        },
+        "2": {
+          "mic": "65GB31T MIC",
+          "rec": "GR-31570-000 REC"
+        },
+        "0": {
+          "mic": "65GB31T MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      },
+      "SKYLARK 730(PROJECT)": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      },
+      "FASCINATING 5300": {
+        "1": {
+          "mic": "50PE30 MIC",
+          "rec": "E40DA020G REC"
+        },
+        "2": {
+          "mic": "50PE30 MIC",
+          "rec": "GR-31570-000 REC"
+        },
+        "0": {
+          "mic": "50PE30 MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      },
+      "FASCINATING 3300": {
+        "1": {
+          "mic": "50PE30 MIC",
+          "rec": "E40DA020G REC"
+        },
+        "2": {
+          "mic": "50PE30 MIC",
+          "rec": "GR-31570-000 REC"
+        },
+        "0": {
+          "mic": "50PE30 MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      },
+      "FASCINATING 2300": {
+        "1": {
+          "mic": "50PE30 MIC",
+          "rec": "E40DA020G REC"
+        },
+        "2": {
+          "mic": "50PE30 MIC",
+          "rec": "GR-31570-000 REC"
+        },
+        "0": {
+          "mic": "50PE30 MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      },
+      "SEQUEL 15": {
+        "1": {
+          "mic": "50PE30 MIC",
+          "rec": "E40DA020G REC"
+        },
+        "2": {
+          "mic": "50PE30 MIC",
+          "rec": "GR-31570-000 REC"
+        },
+        "0": {
+          "mic": "50PE30 MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      },
+      "SEQUEL 13": {
+        "1": {
+          "mic": "50PE30 MIC",
+          "rec": "E40DA020G REC"
+        },
+        "2": {
+          "mic": "50PE30 MIC",
+          "rec": "GR-31570-000 REC"
+        },
+        "0": {
+          "mic": "50PE30 MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      },
+      "SEQUEL 12": {
+        "1": {
+          "mic": "50PE30 MIC",
+          "rec": "E40DA020G REC"
+        },
+        "2": {
+          "mic": "50PE30 MIC",
+          "rec": "GR-31570-000 REC"
+        },
+        "0": {
+          "mic": "50PE30 MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      },
+      "SEQUEL 11": {
+        "1": {
+          "mic": "50PE30 MIC",
+          "rec": "E40DA020G REC"
+        },
+        "2": {
+          "mic": "50PE30 MIC",
+          "rec": "GR-31570-000 REC"
+        },
+        "0": {
+          "mic": "50PE30 MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      }
+    },
+    "ITC": {
+      "CHARM K830": {
+        "no_srn": {
+          "mic": "9446 MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "CHARM G630": {
+        "no_srn": {
+          "mic": "9446 MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "CHARM N530": {
+        "no_srn": {
+          "mic": "9446 MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "CHARM E330": {
+        "no_srn": {
+          "mic": "9446 MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "SKYLARK 730": {
+        "no_srn": {
+          "mic": "9446 MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "SKYLARK 630": {
+        "no_srn": {
+          "mic": "9446 MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "SKYLARK 530": {
+        "no_srn": {
+          "mic": "9446 MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "CHARM B230": {
+        "no_srn": {
+          "mic": "9446 MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "SKYLARK 730(PROJECT)": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "SKYLARK 650": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "FASCINATING 5300": {
+        "no_srn": {
+          "mic": "50PE30 MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      },
+      "FASCINATING 3300": {
+        "no_srn": {
+          "mic": "50PE30 MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      },
+      "FASCINATING 2300": {
+        "no_srn": {
+          "mic": "50PE30 MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      }
+    },
+    "HS": {
+      "CHARM K830": {
+        "no_srn": {
+          "mic": "9446 MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "CHARM G630": {
+        "no_srn": {
+          "mic": "9446 MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "CHARM N530": {
+        "no_srn": {
+          "mic": "9446 MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "CHARM E330": {
+        "no_srn": {
+          "mic": "9446 MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "SKYLARK 730": {
+        "no_srn": {
+          "mic": "9446 MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "SKYLARK 630": {
+        "no_srn": {
+          "mic": "9446 MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "SKYLARK 530": {
+        "no_srn": {
+          "mic": "9446 MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "CHARM B230": {
+        "no_srn": {
+          "mic": "9446 MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "SKYLARK 730(PROJECT)": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      }
+    },
+    "RIC": {
+      "CHARM K830": {
+        "no_srn": {
+          "M": {
+            "mic": "9446 MIC",
+            "rec": "RAB-33726-000 REC"
+          },
+          "P": {
+            "mic": "9446 MIC",
+            "rec": "RAB-31761-000 REC"
+          }
+        }
+      },
+      "CHARM G630": {
+        "no_srn": {
+          "M": {
+            "mic": "9446 MIC",
+            "rec": "RAB-33726-000 REC"
+          },
+          "P": {
+            "mic": "9446 MIC",
+            "rec": "RAB-31761-000 REC"
+          }
+        }
+      },
+      "CHARM N530": {
+        "no_srn": {
+          "M": {
+            "mic": "9446 MIC",
+            "rec": "RAB-33726-000 REC"
+          },
+          "P": {
+            "mic": "9446 MIC",
+            "rec": "RAB-31761-000 REC"
+          }
+        }
+      },
+      "CHARM E330": {
+        "no_srn": {
+          "M": {
+            "mic": "9446 MIC",
+            "rec": "RAB-33726-000 REC"
+          },
+          "P": {
+            "mic": "9446 MIC",
+            "rec": "RAB-31761-000 REC"
+          }
+        }
+      },
+      "CHARM B230": {
+        "no_srn": {
+          "M": {
+            "mic": "9446 MIC",
+            "rec": "RAB-33726-000 REC"
+          },
+          "P": {
+            "mic": "9446 MIC",
+            "rec": "RAB-31761-000 REC"
+          }
+        }
+      }
+    },
+    "ITE": {
+      "CHARM N530": {
+        "no_srn": {
+          "mic": "9446 MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "CHARM E330": {
+        "no_srn": {
+          "mic": "9446 MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "SKYLARK 630": {
+        "no_srn": {
+          "mic": "9446 MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "SKYLARK 530": {
+        "no_srn": {
+          "mic": "9446 MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "CHARM B230": {
+        "no_srn": {
+          "mic": "9446 MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "SKYLARK 730(PROJECT)": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      }
+    },
+    "BTEP": {
+      "CONDOR 9": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "CONDOR 8": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "CONDOR 7": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      }
+    }
+  },
+  "e7160sl": {
+    "ITC": {
+      "CHARM B230-W": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "CHARM E330-W": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "CHARM N530-W": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "CHARM G630-W": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "CHARM K830-W": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "FASCINATING 5200-W": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "FASCINATING 3200-W": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "FASCINATING 2200-W": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "E7160SL UNDEFINED(1.13.1507)": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "FASCINATING 5300-W": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "FASCINATING 3300-W": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "FASCINATING 2300-W": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      }
+    },
+    "ITE": {
+      "CHARM B230-W": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "CHARM E330-W": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "CHARM N530-W": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "CHARM G630-W": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "CHARM K830-W": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "FASCINATING 5200-W": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "RDB-33608-000 REC"
+        }
+      },
+      "FASCINATING 3200-W": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "RDB-33608-000 REC"
+        }
+      },
+      "FASCINATING 2200-W": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "RDB-33608-000 REC"
+        }
+      }
+    },
+    "HS": {
+      "CHARM B230-W": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "RDB-33608-000 REC"
+        }
+      },
+      "CHARM E330-W": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "RDB-33608-000 REC"
+        }
+      },
+      "CHARM N530-W": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "RDB-33608-000 REC"
+        }
+      },
+      "CHARM G630-W": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "RDB-33608-000 REC"
+        }
+      },
+      "CHARM K830-W": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "RDB-33608-000 REC"
+        }
+      }
+    },
+    "RIC": {
+      "CHARM B230-W": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "RDB-33608-000 REC"
+        }
+      },
+      "CHARM E330-W": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "RDB-33608-000 REC"
+        }
+      },
+      "CHARM N530-W": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "RDB-33608-000 REC"
+        }
+      },
+      "CHARM G630-W": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "RDB-33608-000 REC"
+        }
+      },
+      "CHARM K830-W": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "RDB-33608-000 REC"
+        }
+      }
+    },
+    "BTEP": {
+      "CONDOR 12-W": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "RDB-33608-000 REC"
+        }
+      },
+      "CONDOR 11-W": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "RDB-33608-000 REC"
+        }
+      },
+      "CONDOR 10-W": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "RDB-33608-000 REC"
+        }
+      },
+      "BOWEN 11": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "RDB-33608-000 REC"
+        }
+      },
+      "BOWEN 10": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "RDB-33608-000 REC"
+        }
+      }
+    },
+    "": {
+      "7160 PRODUCT": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "RDB-33608-000 REC"
+        }
+      }
+    },
+    "CIC": {
+      "E7160SL UNDEFINED(1.13.1507)": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "RDB-33608-000 REC"
+        }
+      },
+      "E7160SL UNDEFINED(1.17.1635)": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "RDB-33608-000 REC"
+        }
+      },
+      "E7160SL UNDEFINED(1.18.1670)": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "RDB-33608-000 REC"
+        }
+      }
+    },
+    "BTE": {
+      "P BOWEN 11": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "RDB-33608-000 REC"
+        }
+      },
+      "P BOWEN 10": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "RDB-33608-000 REC"
+        }
+      }
+    }
+  },
+  "audion6": {
+    "CIC": {
+      "ENJOYMENT 7": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "26D04/7 REC"
+        }
+      },
+      "ENJOYMENT 8": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "26D04/7 REC"
+        }
+      },
+      "ENJOYMENT 9": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "26D04/7 REC"
+        }
+      },
+      "LINEAR 15": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "26D04/7 REC"
+        }
+      },
+      "LINEAR 7B": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "26D04/7 REC"
+        }
+      },
+      "LINEAR 8B": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "26D04/7 REC"
+        }
+      },
+      "LINEAR 9B": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "26D04/7 REC"
+        }
+      },
+      "BOWEN 13": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "26D04/7 REC"
+        }
+      },
+      "LINEAR 13": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "26D04/7 REC"
+        }
+      },
+      "LINEAR 12": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "26D04/7 REC"
+        }
+      },
+      "LINEAR 11": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "26D04/7 REC"
+        }
+      },
+      "LAVEROCK 5B": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "26D04/7 REC"
+        }
+      },
+      "LAVEROCK 6B": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "26D04/7 REC"
+        }
+      },
+      "LAVEROCK 7B": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "26D04/7 REC"
+        }
+      },
+      "LAVEROCK 8": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "26D04/7 REC"
+        }
+      },
+      "LAVEROCK 9": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "26D04/7 REC"
+        }
+      },
+      "LAVEROCK 10": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "26D04/7 REC"
+        }
+      },
+      "BOWEN 12": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "26D04/7 REC"
+        }
+      },
+      "BOWEN 15": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "26D04/7 REC"
+        }
+      },
+      "ENJOYMENT 10": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "26D04/7 REC"
+        }
+      },
+      "ENJOYMENT 11": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "26D04/7 REC"
+        }
+      },
+      "ENJOYMENT 12": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "26D04/7 REC"
+        }
+      }
+    },
+    "ITC": {
+      "ENJOYMENT 7": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "ENJOYMENT 8": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "ENJOYMENT 9": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LINEAR 15": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "ENJOYMENT 10R": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "TEC-30033-000 REC"
+        }
+      },
+      "ENJOYMENT 11R": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "TEC-30033-000 REC"
+        }
+      },
+      "LINEAR 7B": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LINEAR 8B": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LINEAR 9B": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LINEAR 13": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LINEAR 12": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LINEAR 11": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LAVEROCK 5B": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LAVEROCK 6B": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LAVEROCK 7B": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LAVEROCK 8": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LAVEROCK 9": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LAVEROCK 10": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "ENJOYMENT 10": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "ENJOYMENT 11": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "ENJOYMENT 12": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      }
+    },
+    "ITE": {
+      "ENJOYMENT 7": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "3168 REC"
+        }
+      },
+      "ENJOYMENT 8": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "3168 REC"
+        }
+      },
+      "ENJOYMENT 9": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "3168 REC"
+        }
+      },
+      "LINEAR 15": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "3168 REC"
+        }
+      },
+      "LINEAR 7B": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "3168 REC"
+        }
+      },
+      "LINEAR 8B": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "3168 REC"
+        }
+      },
+      "LINEAR 9B": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "3168 REC"
+        }
+      },
+      "LINEAR 13": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "3168 REC"
+        }
+      },
+      "LINEAR 12": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "3168 REC"
+        }
+      },
+      "LINEAR 11": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "3168 REC"
+        }
+      },
+      "LAVEROCK 5B": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "3168 REC"
+        }
+      },
+      "LAVEROCK 6B": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "3168 REC"
+        }
+      },
+      "LAVEROCK 7B": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "3168 REC"
+        }
+      },
+      "LAVEROCK 8": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "3168 REC"
+        }
+      },
+      "LAVEROCK 9": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "3168 REC"
+        }
+      },
+      "LAVEROCK 10": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "3168 REC"
+        }
+      },
+      "ENJOYMENT 10": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "3168 REC"
+        }
+      },
+      "ENJOYMENT 11": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "3168 REC"
+        }
+      },
+      "ENJOYMENT 12": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "3168 REC"
+        }
+      }
+    },
+    "HS": {
+      "LINEAR 15": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LINEAR 7B": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LINEAR 8B": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LINEAR 9B": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LINEAR 13": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LINEAR 12": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LINEAR 11": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LAVEROCK 5B": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LAVEROCK 6B": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LAVEROCK 7B": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LAVEROCK 8": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LAVEROCK 9": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LAVEROCK 10": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      }
+    },
+    "BTE": {
+      "ENJOYMENT 10R": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "31440"
+        }
+      },
+      "ENJOYMENT 11R": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "31440"
+        }
+      },
+      "BOWEN 9B": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "27156REC"
+        }
+      },
+      "BOWEN 9C": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "27156REC"
+        }
+      },
+      "BOWEN 10R": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "27156REC"
+        }
+      },
+      "BOWEN 11R": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "27156REC"
+        }
+      }
+    },
+    "BTEP": {
+      "ENJOYMENT 10R": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "34136"
+        }
+      },
+      "ENJOYMENT 11R": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "34136"
+        }
+      },
+      "CONDOR 7": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "hook"
+        }
+      }
+    }
+  },
+  "": {
+    "": {}
+  },
+  "e7111": {
+    "CIC": {
+      "FASCINATING 5200": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "hook"
+        }
+      },
+      "FASCINATING 3200": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "hook"
+        }
+      },
+      "FASCINATING 2200": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "hook"
+        }
+      },
+      "E7111 UNDEFINED(1.2.839)": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "hook"
+        }
+      }
+    },
+    "**CIC": {
+      "FASCINATING 5200": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "hook"
+        }
+      },
+      "FASCINATING 3200": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "hook"
+        }
+      },
+      "FASCINATING 2200": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "hook"
+        }
+      }
+    },
+    "MINICIC": {
+      "FASCINATING 5200": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "hook"
+        }
+      },
+      "FASCINATING 3200": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "hook"
+        }
+      },
+      "FASCINATING 2200": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "hook"
+        }
+      }
+    },
+    "ITC": {
+      "FASCINATING 5200": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "hook"
+        }
+      },
+      "FASCINATING 3200": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "hook"
+        }
+      },
+      "FASCINATING 2200": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "hook"
+        }
+      }
+    },
+    "ITE": {
+      "FASCINATING 5200": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "hook"
+        }
+      },
+      "FASCINATING 3200": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "hook"
+        }
+      },
+      "FASCINATING 2200": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "hook"
+        }
+      }
+    }
+  },
+  "ethos": {
+    "CIC": {
+      "ENJOYMENT 7": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "26D04/7 REC"
+        }
+      },
+      "ENJOYMENT 8": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "26D04/7 REC"
+        }
+      },
+      "ENJOYMENT 9": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "26D04/7 REC"
+        }
+      },
+      "LINEAR 10B": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "26D04/7 REC"
+        }
+      },
+      "LINEAR 15": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "26D04/7 REC"
+        }
+      },
+      "SEQUEL 7": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "26D04/7 REC"
+        }
+      },
+      "SEQUEL 8": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "26D04/7 REC"
+        }
+      },
+      "SEQUEL 9": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "26D04/7 REC"
+        }
+      },
+      "SEQUEL 10": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "26D04/7 REC"
+        }
+      }
+    },
+    "ITC": {
+      "ENJOYMENT 7": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "ENJOYMENT 8": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "ENJOYMENT 9": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LINEAR 10B": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LINEAR 15": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "SEQUEL 7": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "SEQUEL 8": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "SEQUEL 9": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "SEQUEL 10": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      }
+    },
+    "ITE": {
+      "ENJOYMENT 7": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "3168 REC"
+        }
+      },
+      "ENJOYMENT 8": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "3168 REC"
+        }
+      },
+      "ENJOYMENT 9": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "3168 REC"
+        }
+      },
+      "LINEAR 10B": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "3168 REC"
+        }
+      },
+      "LINEAR 15": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "3168 REC"
+        }
+      },
+      "SEQUEL 8": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "3168 REC"
+        }
+      },
+      "SEQUEL 9": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "3168 REC"
+        }
+      }
+    },
+    "HS": {
+      "LINEAR 10B": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LINEAR 15": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "SEQUEL 7": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "SEQUEL 8": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "SEQUEL 9": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "SEQUEL 10": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      }
+    },
+    "MINICIC": {
+      "SEQUEL 7": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      },
+      "SEQUEL 8": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      },
+      "SEQUEL 9": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      },
+      "SEQUEL 10": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      },
+      "SEQUEL 7B": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      },
+      "SEQUEL 8B": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      },
+      "SEQUEL 9B": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      },
+      "SEQUEL 10B": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      },
+      "SEQUEL 11": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      },
+      "SEQUEL 12": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      },
+      "SEQUEL 13": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      },
+      "SEQUEL 15": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      }
+    },
+    "BTE": {},
+    "BTEP": {}
+  },
+  "intune": {
+    "CIC": {},
+    "ITC": {},
+    "ITE": {},
+    "HS": {}
+  },
+  "overtus": {
+    "CIC": {},
+    "ITC": {},
+    "ITE": {},
+    "HS": {}
+  },
+  "audion16": {
+    "CIC": {
+      "CHARM B230": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "E50DA012 REC"
+        }
+      },
+      "CHARM E330": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "E50DA012 REC"
+        }
+      },
+      "CHARM N530": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "E50DA012 REC"
+        }
+      },
+      "CHARM G630": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "E50DA012 REC"
+        }
+      },
+      "CHARM K830": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "E50DA012 REC"
+        }
+      },
+      "CHARM B320": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "E50DA012 REC"
+        }
+      },
+      "CHARM N520": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "E50DA012 REC"
+        }
+      },
+      "CHARM K820": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "E50DA012 REC"
+        }
+      },
+      "CHARM G620": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "E50DA012 REC"
+        }
+      },
+      "SKYLARK 720": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "E50DA012 REC"
+        }
+      },
+      "SKYLARK 620": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "E50DA012 REC"
+        }
+      }
+    },
+    "**CIC": {
+      "CHARM B230": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "CHARM E330": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "CHARM N530": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "CHARM G630": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "CHARM K830": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "CHARM B220": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "CHARM B320": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "CHARM N520": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "CHARM K820": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "CHARM G620": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "SKYLARK 720": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "SKYLARK 620": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "SKYLARK 520": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      }
+    },
+    "ITC": {
+      "CHARM B230": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "CHARM E330": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "CHARM N530": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "CHARM G630": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "CHARM K830": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "CHARM B320": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "CHARM N520": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "CHARM K820": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "ITE CHARM G620": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "SKYLARK 720": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "SKYLARK 620": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      }
+    },
+    "ITE": {
+      "CHARM B230": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "CHARM E330": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "CHARM N530": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "CHARM B320": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "CHARM N520": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "SKYLARK 620": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      }
+    },
+    "HS": {
+      "CHARM B230": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "CHARM E330": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "CHARM N530": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "CHARM G630": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "CHARM K830": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "CHARM B320": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "CHARM N520": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "CHARM K820": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "CHARM G620": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "SKYLARK 720": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "SKYLARK 620": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      }
+    },
+    "RIC": {},
+    "MINICIC": {
+      "CHARM N530": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "E50DA012 REC"
+        }
+      },
+      "CHARM G630": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "E50DA012 REC"
+        }
+      },
+      "CHARM K830": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "E50DA012 REC"
+        }
+      },
+      "CHARM N520": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "E50DA012 REC"
+        }
+      },
+      "CHARM K820": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "E50DA012 REC"
+        }
+      },
+      "CHARM G620": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "E50DA012 REC"
+        }
+      },
+      "SKYLARK 720": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "E50DA012 REC"
+        }
+      },
+      "SKYLARK 620": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "E50DA012 REC"
+        }
+      }
+    },
+    "RICP": {},
+    "CICK": {}
+  },
+  "audion16plus": {
+    "CIC": {
+      "FASCINATING 5300": {
+        "no_srn": {
+          "mic": "50PE30 MIC",
+          "rec": "E50DA012 REC"
+        }
+      },
+      "FASCINATING 3300": {
+        "no_srn": {
+          "mic": "50PE30 MIC",
+          "rec": "E50DA012 REC"
+        }
+      },
+      "FASCINATING 2300": {
+        "no_srn": {
+          "mic": "50PE30 MIC",
+          "rec": "E50DA012 REC"
+        }
+      }
+    },
+    "ITC": {
+      "FASCINATING 5300": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "FASCINATING 3300": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      },
+      "FASCINATING 2300": {
+        "no_srn": {
+          "mic": "50PC33 MIC",
+          "rec": "GR-31570-000 REC"
+        }
+      }
+    },
+    "MINICIC": {
+      "FASCINATING 5300": {
+        "2": {
+          "mic": "50PE30 MIC",
+          "rec": "GR-31570-000 REC"
+        },
+        "1": {
+          "mic": "50PE30 MIC",
+          "rec": "E40DA020G REC"
+        },
+        "0": {
+          "mic": "50PE30 MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      },
+      "FASCINATING 3300": {
+        "2": {
+          "mic": "50PE30 MIC",
+          "rec": "GR-31570-000 REC"
+        },
+        "1": {
+          "mic": "50PE30 MIC",
+          "rec": "E40DA020G REC"
+        },
+        "0": {
+          "mic": "50PE30 MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      },
+      "FASCINATING 2300": {
+        "2": {
+          "mic": "50PE30 MIC",
+          "rec": "GR-31570-000 REC"
+        },
+        "1": {
+          "mic": "50PE30 MIC",
+          "rec": "E40DA020G REC"
+        },
+        "0": {
+          "mic": "50PE30 MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      },
+      "SEQUEL 15": {
+        "2": {
+          "mic": "50PE30 MIC",
+          "rec": "GR-31570-000 REC"
+        },
+        "1": {
+          "mic": "50PE30 MIC",
+          "rec": "E40DA020G REC"
+        },
+        "0": {
+          "mic": "50PE30 MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      },
+      "SEQUEL 13": {
+        "2": {
+          "mic": "50PE30 MIC",
+          "rec": "GR-31570-000 REC"
+        },
+        "1": {
+          "mic": "50PE30 MIC",
+          "rec": "E40DA020G REC"
+        },
+        "0": {
+          "mic": "50PE30 MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      },
+      "SEQUEL 12": {
+        "2": {
+          "mic": "50PE30 MIC",
+          "rec": "GR-31570-000 REC"
+        },
+        "1": {
+          "mic": "50PE30 MIC",
+          "rec": "E40DA020G REC"
+        },
+        "0": {
+          "mic": "50PE30 MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      },
+      "SEQUEL 11": {
+        "2": {
+          "mic": "50PE30 MIC",
+          "rec": "GR-31570-000 REC"
+        },
+        "1": {
+          "mic": "50PE30 MIC",
+          "rec": "E40DA020G REC"
+        },
+        "0": {
+          "mic": "50PE30 MIC",
+          "rec": "FK-23451-000 REC"
+        }
+      }
+    },
+    "**CIC": {
+      "FASCINATING 5300": {
+        "1": {
+          "mic": "50PE30 MIC",
+          "rec": "RDB-33608-000 REC"
+        },
+        "default": {
+          "mic": "50PE30 MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "FASCINATING 3300": {
+        "1": {
+          "mic": "50PE30 MIC",
+          "rec": "RDB-33608-000 REC"
+        },
+        "default": {
+          "mic": "50PE30 MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      },
+      "FASCINATING 2300": {
+        "1": {
+          "mic": "50PE30 MIC",
+          "rec": "RDB-33608-000 REC"
+        },
+        "default": {
+          "mic": "50PE30 MIC",
+          "rec": "DTEC-30008-000 REC"
+        }
+      }
+    }
+  },
+  "b300": {
+    "ITE": {
+      "ENJOYMENT 7": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "EF-26810-000 REC"
+        }
+      },
+      "ENJOYMENT 8": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "EF-26810-000 REC"
+        }
+      },
+      "ENJOYMENT 9": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "EF-26810-000 REC"
+        }
+      },
+      "ENJOYMENT 10": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "EF-26810-000 REC"
+        }
+      },
+      "ENJOYMENT 11": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "EF-26810-000 REC"
+        }
+      },
+      "ENJOYMENT 12": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "EF-26810-000 REC"
+        }
+      },
+      "LAVEROCK 8": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "EF-26810-000 REC"
+        }
+      },
+      "LAVEROCK 9": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "EF-26810-000 REC"
+        }
+      },
+      "LAVEROCK 10": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "3168 REC"
+        }
+      },
+      "LINEAR 11": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "EF-26810-000 REC"
+        }
+      },
+      "LINEAR 12": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "EF-26810-000 REC"
+        }
+      },
+      "LINEAR 13": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "EF-26810-000 REC"
+        }
+      },
+      "LINEAR 15": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "EF-26810-000 REC"
+        }
+      }
+    },
+    "ITC": {
+      "ENJOYMENT 7": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "TEC-30033-000 REC"
+        }
+      },
+      "ENJOYMENT 8": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "TEC-30033-000 REC"
+        }
+      },
+      "ENJOYMENT 9": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "TEC-30033-000 REC"
+        }
+      },
+      "ENJOYMENT 10": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "TEC-30033-000 REC"
+        }
+      },
+      "ENJOYMENT 11": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "TEC-30033-000 REC"
+        }
+      },
+      "ENJOYMENT 12": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "TEC-30033-000 REC"
+        }
+      },
+      "LAVEROCK 8": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LAVEROCK 9": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LAVEROCK 10": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LINEAR 11": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LINEAR 12": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LINEAR 13": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LINEAR 15": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      }
+    },
+    "HS": {
+      "LAVEROCK 8": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LAVEROCK 9": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LAVEROCK 10": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LINEAR 11": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LINEAR 12": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LINEAR 13": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      },
+      "LINEAR 15": {
+        "no_srn": {
+          "mic": "EM-24446-CX MIC",
+          "rec": "ED-27926-000 REC"
+        }
+      }
+    }
+  }
+}

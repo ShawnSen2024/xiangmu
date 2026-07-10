@@ -1,0 +1,41 @@
+{
+    "bag_db": {
+        "id_\u662f": 14,
+        "id_\u5426": 15,
+        "id_0": 15,
+        "id_1": 14
+    },
+    "bag_phis": {
+        "id_null": 19,
+        "id_\u672a\u6234\u8fc7": 20,
+        "id_\u6234\u8fc7": 21,
+        "id_\u76d2\u5f0f": 21,
+        "id_\u8033\u80cc\u5f0f": 21,
+        "id_\u8033\u9053\u5f0f": 21,
+        "id_0": 20,
+        "id_1": 21,
+        "id_2": 21,
+        "id_3": 21
+    },
+    "bag_gender": {
+        "id_null": 16,
+        "id_\u5973": 17,
+        "id_\u7537": 18,
+        "id_0": 17,
+        "id_1": 18
+    },
+    "bag_outlook": {
+        "id_null": 59,
+        "id_MINICIC": 59,
+        "id_CIC": 59,
+        "id_**CIC": 59,
+        "id_ITC": 61,
+        "id_HS": 61,
+        "id_ITE": 63,
+        "id_RIC": 65,
+        "id_BTE": 65,
+        "id_CICK": 59,
+        "id_BTEP": 65,
+        "id_RICP": 65
+    }
+}

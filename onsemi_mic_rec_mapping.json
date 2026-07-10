@@ -1,0 +1,1014 @@
+{
+    "IDP_FASCINATING_5200-W":{
+        "ITC":{
+            "no_srn":"9446M@E50DA012"
+        },
+        "ITE":{
+            "no_srn":"9446M@31570"
+        },
+        "RIC":{
+            "no_srn":"9446M@E50DA012"
+        },
+        "default":{
+            "no_srn":"9446M@E50DA012"
+        }
+    },
+    "IDP_FASCINATING_3200-W":{
+        "ITC":{
+            "no_srn":"9446M@E50DA012"
+        },
+        "ITE":{
+            "no_srn":"9446M@31570"
+        },
+        "RIC":{
+            "no_srn":"9446M@E50DA012"
+        },
+        "default":{
+            "no_srn":"9446M@E50DA012"
+        }
+    },
+    "IDP_FASCINATING_2200-W":{
+        "ITC":{
+            "no_srn":"9446M@E50DA012"
+        },
+        "ITE":{
+            "no_srn":"9446M@31570"
+        },
+        "RIC":{
+            "no_srn":"9446M@E50DA012"
+        },
+        "default":{
+            "no_srn":"9446M@E50DA012"
+        }
+    },
+    "IDP_FASCINATING_E7160":{
+        "ITC":{
+            "no_srn":"9446M@E50DA012"
+        },
+        "ITE":{
+            "no_srn":"9446M@31570"
+        },
+        "RIC":{
+            "no_srn":"9446M@E50DA012"
+        },
+        "default":{
+            "no_srn":"9446M@E50DA012"
+        }
+    },
+    "IDP_FASCINATING_5200W_1.13":{
+        "ITC":{
+            "no_srn":"50PC33 MIC@31570"
+        },
+        "HS":{
+            "no_srn":"50PC33 MIC@31570"
+        },
+        "ITE":{
+            "no_srn":"50PC33 MIC@33608 REC"
+        },
+        "RIC":{
+            "no_srn":{
+                "M":"RIC_MIC@RICM", 
+                "P":"RIC_MIC@RICP" 
+            }
+        },
+        "BTEP":{
+            "no_srn":"50PE30 MIC@30008"
+        },
+        "default":{
+            "no_srn":"50PE30 MIC@30008"
+        }
+    },
+    "IDP_FASCINATING_3200W_1.13":{
+        "ITC":{
+            "no_srn":"50PC33 MIC@31570"
+        },
+        "HS":{
+            "no_srn":"50PC33 MIC@31570"
+        },
+        "ITE":{
+            "no_srn":"50PC33 MIC@33608 REC"
+        },
+        "RIC":{
+            "no_srn":{
+                "M":"RIC_MIC@RICM", 
+                "P":"RIC_MIC@RICP" 
+            }
+        },
+        "BTEP":{
+            "no_srn":"50PE30 MIC@30008"
+        },
+        "default":{
+            "no_srn":"50PE30 MIC@30008"
+        }
+    },
+    "IDP_FASCINATING_2200W_1.13":{
+        "ITC":{
+            "no_srn":"50PC33 MIC@31570"
+        },
+        "HS":{
+            "no_srn":"50PC33 MIC@31570"
+        },
+        "ITE":{
+            "no_srn":"50PC33 MIC@33608 REC"
+        },
+        "RIC":{
+            "no_srn":{
+                "M":"RIC_MIC@RICM", 
+                "P":"RIC_MIC@RICP" 
+            }
+        },
+        "BTEP":{
+            "no_srn":"50PE30 MIC@30008"
+        },
+        "default":{
+            "no_srn":"50PE30 MIC@30008"
+        }
+    },
+    "IDP_FASCINATING_E7160_PRO":{
+        "ITC":{
+            "no_srn":"50PC33 MIC@31570"
+        },
+        "HS":{
+            "no_srn":"50PC33 MIC@31570"
+        },
+        "ITE":{
+            "no_srn":"50PC33 MIC@33608 REC"
+        },
+        "RIC":{
+            "no_srn":{
+                "M":"RIC_MIC@RICM", 
+                "P":"RIC_MIC@RICP" 
+            }
+        },
+        "BTEP":{
+            "no_srn":"50PE30 MIC@30008"
+        },
+        "default":{
+            "no_srn":"50PE30 MIC@30008"
+        }
+    },
+    "IDP_CHARM_K830-W_1.13":{
+        "ITC":{
+            "no_srn":"50PC33 MIC@31570"
+        },
+        "HS":{
+            "no_srn":"50PC33 MIC@31570"
+        },
+        "ITE":{
+            "no_srn":"50PC33 MIC@33608 REC"
+        },
+        "RIC":{
+            "no_srn":{
+                "M":"RIC_MIC@RICM", 
+                "P":"RIC_MIC@RICP" 
+            }
+        },
+        "BTEP":{
+            "no_srn":"50PE30 MIC@30008"
+        },
+        "default":{
+            "no_srn":"50PE30 MIC@30008"
+        }
+    },
+    "IDP_CHARM_G630-W_1.13":{
+        "ITC":{
+            "no_srn":"50PC33 MIC@31570"
+        },
+        "HS":{
+            "no_srn":"50PC33 MIC@31570"
+        },
+        "ITE":{
+            "no_srn":"50PC33 MIC@33608 REC"
+        },
+        "RIC":{
+            "no_srn":{
+                "M":"RIC_MIC@RICM", 
+                "P":"RIC_MIC@RICP" 
+            }
+        },
+        "BTEP":{
+            "no_srn":"50PE30 MIC@30008"
+        },
+        "default":{
+            "no_srn":"50PE30 MIC@30008"
+        }
+    },
+    "IDP_CHARM_N530-W_1.13":{
+        "ITC":{
+            "no_srn":"50PC33 MIC@31570"
+        },
+        "HS":{
+            "no_srn":"50PC33 MIC@31570"
+        },
+        "ITE":{
+            "no_srn":"50PC33 MIC@33608 REC"
+        },
+        "RIC":{
+            "no_srn":{
+                "M":"RIC_MIC@RICM", 
+                "P":"RIC_MIC@RICP" 
+            }
+        },
+        "BTEP":{
+            "no_srn":"50PE30 MIC@30008"
+        },
+        "default":{
+            "no_srn":"50PE30 MIC@30008"
+        }
+    },
+    "IDP_CHARM_E330-W_1.13":{
+        "ITC":{
+            "no_srn":"50PC33 MIC@31570"
+        },
+        "HS":{
+            "no_srn":"50PC33 MIC@31570"
+        },
+        "ITE":{
+            "no_srn":"50PC33 MIC@33608 REC"
+        },
+        "RIC":{
+            "no_srn":{
+                "M":"RIC_MIC@RICM", 
+                "P":"RIC_MIC@RICP" 
+            }
+        },
+        "BTEP":{
+            "no_srn":"50PE30 MIC@30008"
+        },
+        "default":{
+            "no_srn":"50PE30 MIC@30008"
+        }
+    },
+    "IDP_CHARM_B230-W_1.13":{
+        "ITC":{
+            "no_srn":"50PC33 MIC@31570"
+        },
+        "HS":{
+            "no_srn":"50PC33 MIC@31570"
+        },
+        "ITE":{
+            "no_srn":"50PC33 MIC@33608 REC"
+        },
+        "RIC":{
+            "no_srn":{
+                "no_srn":{
+                "M":"RIC_MIC@RICM", 
+                "P":"RIC_MIC@RICP" 
+            }
+            }
+        },
+        "BTEP":{
+            "no_srn":"50PE30 MIC@30008"
+        },
+        "default":{
+            "no_srn":"50PE30 MIC@30008"
+        }
+    },
+    "IDP_CONDOR_10-W_1.13":{
+        "BTEP":{
+            "no_srn":"50PE30 MIC@30008"
+        },
+        "default":{
+            "no_srn":"50PE30 MIC@30008"
+        }
+    },
+    "IDP_CONDOR_11-W_1.13":{
+        "BTEP":{
+            "no_srn":"50PE30 MIC@30008"
+        },
+        "default":{
+            "no_srn":"50PE30 MIC@30008"
+        }
+    },
+    "IDP_CONDOR_12-W_1.13":{
+        "BTEP":{
+            "1":"50PE30 MIC@33UAL015G",
+            "default":"50PE30 MIC@30008"
+        },
+        "default":{
+            "no_srn":"50PE30 MIC@30008"
+        }
+    },
+    "IDP_CONDOR_12-W_1.18":{
+        "BTEP":{
+            "no_srn":"ALD617_BTE_Front@ALD617_BTE_SPK_37AP"
+        },
+        "default":{
+            "no_srn":"ALD617_BTE_Front@ALD617_BTE_SPK_37AP"
+        }
+    },
+    "IDP_CONDOR_11-W_1.18":{
+        "BTEP":{
+            "no_srn":"BTE P Bowen FM@BTE P Bowen"
+        },
+        "default":{
+            "no_srn":"BTE P Bowen FM@BTE P Bowen"
+        }
+    },
+    "IDP_CONDOR_10-W_1.18":{
+        "BTEP":{
+            "no_srn":"BTE P Bowen FM@BTE P Bowen"
+        },
+        "default":{
+            "no_srn":"BTE P Bowen FM@BTE P Bowen"
+        }
+    },
+    "IDP_SKYLARK_630-W_1.18":{
+        "no_outlook":"50PC33 MIC@30008"
+    },
+    "IDP_SKYLARK_730-W_1.18":{
+        "no_outlook":"50PC33 MIC@30008"
+    },
+    "IDP_FASCINATING_5300-W_1.13":{
+        "no_outlook":"50PC33 MIC@31570"
+    },
+    "IDP_FASCINATING_5300-W_1.18":{
+        "no_outlook":"50PC33 MIC@31570"
+    },
+    "IDP_FASCINATING_5200-W_1.18":{
+        "no_outlook":"50PC33 MIC@31570"
+    },
+    "IDP_FASCINATING_3200-W_1.18":{
+        "no_outlook":"50PC33 MIC@31570"
+    },
+    "IDP_FASCINATING_2200-W_1.18":{
+        "no_outlook":"50PC33 MIC@31570"
+    },
+    "IDP_FASCINATING_3300-W_1.13":{
+        "no_outlook":"50PC33 MIC@31570"
+    },
+    "IDP_FASCINATING_3300-W_1.18":{
+        "no_outlook":"50PC33 MIC@31570"
+    },
+    "IDP_FASCINATING_2300-W_1.13":{
+        "no_outlook":"50PC33 MIC@31570"
+    },
+    "IDP_FASCINATING_2300-W_1.18":{
+        "no_outlook":"50PC33 MIC@31570"
+    },
+    "IDP_FASCINATING_E7111V2_27":{
+        "no_outlook":"50PE30 MIC@E50DA012"
+    },
+    "IDP_CHARM_K830-W_117":{
+        "RIC":{
+            "no_srn":{
+                "M":"RIC_MIC@RICM", 
+                "P":"RIC_MIC@RICP" 
+            }
+        },
+        "default":{
+            "no_srn":"50PE30 MIC@31570"
+        }
+    },
+    "IDP_CHARM_G630-W_117":{
+        "RIC":{
+            "no_srn":{
+                "M":"RIC_MIC@RICM", 
+                "P":"RIC_MIC@RICP" 
+            }
+        },
+        "default":{
+            "no_srn":"50PE30 MIC@31570"
+        }
+    },
+    "IDP_CHARM_N530-W_117":{
+        "RIC":{
+            "no_srn":{
+                "M":"RIC_MIC@RICM", 
+                "P":"RIC_MIC@RICP" 
+            }
+        },
+        "default":{
+            "no_srn":"50PE30 MIC@31570"
+        }
+    },
+    "IDP_CHARM_E330-W_117":{
+        "RIC":{
+            "no_srn":{
+                "M":"RIC_MIC@RICM", 
+                "P":"RIC_MIC@RICP" 
+            }
+        },
+        "default":{
+            "no_srn":"50PE30 MIC@31570"
+        }
+    },
+    "IDP_CHARM_B230-W_117":{
+        "RIC":{
+            "no_srn":{
+                "M":"RIC_MIC@RICM", 
+                "P":"RIC_MIC@RICP" 
+            }
+        },
+        "default":{
+            "no_srn":"50PE30 MIC@31570"
+        }
+    },
+    "IDP_CHARM_E7160_117_PRO":{
+        "RIC":{
+            "no_srn":{
+                "M":"RIC_MIC@RICM", 
+                "P":"RIC_MIC@RICP" 
+            }
+        },
+        "default":{
+            "no_srn":"50PE30 MIC@31570"
+        }
+    },
+    "IDP_CHARM_K830-W_1.18":{
+        "RIC":{
+            "no_srn":{
+                "M":"RIC_MIC@RICM", 
+                "P":"RIC_MIC@RICP" 
+            }
+        },
+        "ITC":{
+            "no_srn":"50PE30 MIC@31570"
+        },
+        "default":{
+            "no_srn":"50PE30 MIC@31570"
+        }
+    },
+    "IDP_CHARM_G630-W_1.18":{
+        "RIC":{
+            "no_srn":{
+                "M":"RIC_MIC@RICM", 
+                "P":"RIC_MIC@RICP" 
+            }
+        },
+        "ITC":{
+            "no_srn":"50PE30 MIC@31570"
+        },
+        "default":{
+            "no_srn":"50PE30 MIC@31570"
+        }
+    },
+    "IDP_CHARM_N530-W_1.18":{
+        "RIC":{
+            "no_srn":{
+                "M":"RIC_MIC@RICM", 
+                "P":"RIC_MIC@RICP" 
+            }
+        },
+        "ITC":{
+            "no_srn":"50PE30 MIC@31570"
+        },
+        "default":{
+            "no_srn":"50PE30 MIC@31570"
+        }
+    },
+    "IDP_CHARM_E330-W_1.18":{
+        "RIC":{
+            "no_srn":{
+                "M":"RIC_MIC@RICM", 
+                "P":"RIC_MIC@RICP" 
+            }
+        },
+        "ITC":{
+            "no_srn":"50PE30 MIC@31570"
+        },
+        "default":{
+            "no_srn":"50PE30 MIC@31570"
+        }
+    },
+    "IDP_CHARM_B230-W_1.18":{
+        "RIC":{
+            "no_srn":{
+                "M":"RIC_MIC@RICM", 
+                "P":"RIC_MIC@RICP" 
+            }
+        },
+        "ITC":{
+            "no_srn":"50PE30 MIC@31570"
+        },
+        "default":{
+            "no_srn":"50PE30 MIC@31570"
+        }
+    },
+    "IDP_CHARM_E7160_118_PRO":{
+        "RIC":{
+            "no_srn":{
+                "M":"RIC_MIC@RICM", 
+                "P":"RIC_MIC@RICP" 
+            }
+        },
+        "ITC":{
+            "no_srn":"50PE30 MIC@31570"
+        },
+        "default":{
+            "no_srn":"50PE30 MIC@31570"
+        }
+    },
+    "IDP_BOWEN_11_1.18":{
+        "BTEP":{
+            "no_srn":"BTE P Bowen FM@BTE P Bowen"
+        },
+        "BTE":{
+            "no_srn":"BTE P Bowen FM@BTE P Bowen"
+        },
+        "default":{
+            "no_srn":"BTE P Bowen FM@BTE P Bowen"
+        }
+    },
+    "IDP_BOWEN_10_1.18":{
+        "BTEP":{
+            "no_srn":"BTE P Bowen FM@BTE P Bowen"
+        },
+        "BTE":{
+            "no_srn":"BTE P Bowen FM@BTE P Bowen"
+        },
+        "default":{
+            "no_srn":"BTE P Bowen FM@BTE P Bowen"
+        }
+    },
+    "IDP_CONDOR_9_2.2.64":{
+        "BTEP":{
+            "no_srn":"24446 CX  MIC@30008"
+        },
+        "CIC":{
+            "no_srn":"50PC33 MIC@E50DA012"
+        },
+        "MINICIC":{
+            "no_srn":"50PC33 MIC@23451"
+        },
+        "ITC":{
+            "no_srn":"50PC33 MIC@31570"
+        },
+        "HS":{
+            "no_srn":"50PC33 MIC@31570"
+        },
+        "**CIC":{
+            "no_srn":"50PC33 MIC@30008"
+        },
+        "ITE":{
+            "no_srn":"50PC33 MIC@30008"
+        },
+        "default":{
+            "no_srn":"24446 CX  MIC@30008"
+        }
+    },
+    "IDP_CONDOR_8_2.2.64":{
+        "BTEP":{
+            "no_srn":"24446 CX  MIC@30008"
+        },
+        "CIC":{
+            "no_srn":"50PC33 MIC@E50DA012"
+        },
+        "MINICIC":{
+            "no_srn":"50PC33 MIC@23451"
+        },
+        "ITC":{
+            "no_srn":"50PC33 MIC@31570"
+        },
+        "HS":{
+            "no_srn":"50PC33 MIC@31570"
+        },
+        "**CIC":{
+            "no_srn":"50PC33 MIC@30008"
+        },
+        "ITE":{
+            "no_srn":"50PC33 MIC@30008"
+        },
+        "default":{
+            "no_srn":"24446 CX  MIC@30008"
+        }
+    },
+    "IDP_CONDOR_7_2.2.64":{
+        "BTEP":{
+            "no_srn":"24446 CX  MIC@30008"
+        },
+        "CIC":{
+            "no_srn":"50PC33 MIC@E50DA012"
+        },
+        "MINICIC":{
+            "no_srn":"50PC33 MIC@23451"
+        },
+        "ITC":{
+            "no_srn":"50PC33 MIC@31570"
+        },
+        "HS":{
+            "no_srn":"50PC33 MIC@31570"
+        },
+        "**CIC":{
+            "no_srn":"50PC33 MIC@30008"
+        },
+        "ITE":{
+            "no_srn":"50PC33 MIC@30008"
+        },
+        "default":{
+            "no_srn":"24446 CX  MIC@30008"
+        }
+    },
+    "IDP_SKYLARK_730_T":{
+        "BTEP":{
+            "no_srn":"24446 CX  MIC@30008"
+        },
+        "CIC":{
+            "no_srn":"50PC33 MIC@E50DA012"
+        },
+        "MINICIC":{
+            "no_srn":"50PC33 MIC@23451"
+        },
+        "ITC":{
+            "no_srn":"50PC33 MIC@31570"
+        },
+        "HS":{
+            "no_srn":"50PC33 MIC@31570"
+        },
+        "**CIC":{
+            "no_srn":"50PC33 MIC@30008"
+        },
+        "ITE":{
+            "no_srn":"50PC33 MIC@30008"
+        },
+        "default":{
+            "no_srn":"24446 CX  MIC@30008"
+        }
+    },
+    "IDP_SKYLARK_650":{
+        "BTEP":{
+            "no_srn":"24446 CX  MIC@30008"
+        },
+        "CIC":{
+            "no_srn":"50PC33 MIC@E50DA012"
+        },
+        "MINICIC":{
+            "no_srn":"50PC33 MIC@23451"
+        },
+        "ITC":{
+            "no_srn":"50PC33 MIC@31570"
+        },
+        "HS":{
+            "no_srn":"50PC33 MIC@31570"
+        },
+        "**CIC":{
+            "no_srn":"50PC33 MIC@30008"
+        },
+        "ITE":{
+            "no_srn":"50PC33 MIC@30008"
+        },
+        "default":{
+            "no_srn":"24446 CX  MIC@30008"
+        }
+    },
+    "IDP_CHARM_K830_2.1.50":{
+        "CIC":{
+            "no_srn":"9446M@E50DA012"
+        },
+        "**CIC":{
+            "1":"9446M@33608 REC",
+            "default":"9446M@30008"
+        },
+        "MINICIC":{
+            "1":"65GB31T@E50DA012",
+            "2":"65GB31T@31570",
+            "0":"65GB31T@23451"
+        },
+        "ITC":{
+            "no_srn":"9446M@31570"
+        },
+        "HS":{
+            "no_srn":"9446M@31570"
+        },
+        "RIC":{
+            "no_srn":{
+                "M":"RIC_MIC@33726", 
+                "P":"RIC_MIC@31761" 
+            }
+        },
+        "default":{
+            "no_srn":"9446M@E50DA012"
+        }
+    },
+    "IDP_SKYLARK_730_2.7.201":{
+        "CIC":{
+            "no_srn":"9446M@E50DA012"
+        },
+        "**CIC":{
+            "1":"9446M@33608 REC",
+            "default":"9446M@30008"
+        },
+        "MINICIC":{
+            "1":"65GB31T@E50DA012",
+            "2":"65GB31T@31570",
+            "0":"65GB31T@23451"
+        },
+        "ITC":{
+            "no_srn":"9446M@31570"
+        },
+        "HS":{
+            "no_srn":"9446M@31570"
+        },
+        "RIC":{
+            "no_srn":{
+                "M":"RIC_MIC@33726", 
+                "P":"RIC_MIC@31761" 
+            }
+        },
+        "default":{
+            "no_srn":"9446M@E50DA012"
+        }
+    },
+    "IDP_CHARM_G630_2.1.50":{
+        "CIC":{
+            "no_srn":"9446M@E50DA012"
+        },
+        "**CIC":{
+            "1":"9446M@33608 REC",
+            "default":"9446M@30008"
+        },
+        "MINICIC":{
+            "1":"65GB31T@E50DA012",
+            "2":"65GB31T@31570",
+            "0":"65GB31T@23451"
+        },
+        "ITC":{
+            "no_srn":"9446M@31570"
+        },
+        "HS":{
+            "no_srn":"9446M@31570"
+        },
+        "RIC":{
+            "no_srn":{
+                "M":"RIC_MIC@33726", 
+                "P":"RIC_MIC@31761" 
+            }
+        },
+        "default":{
+            "no_srn":"9446M@E50DA012"
+        }
+    },
+    "IDP_CHARM_K830_27":{
+        "ITC":{
+            "no_srn":"50PE30 MIC@27926 REC"
+        },
+        "default":{
+            "no_srn":"50PE30 MIC@27926 REC"
+        }
+    },
+    "IDP_FASCINATING_5300_2.7.201":{
+        "CIC":{
+            "no_srn":"50PE30-1112@E50DA012"
+        },
+        "**CIC":{
+            "1":"50PE30-1112@33608 REC",
+            "default":"50PE30-1112@30008"
+        },
+        "MINICIC":{
+            "1":"50PE30-1112@E40DA020",
+            "2":"50PE30-1112@31570",
+            "0":"50PE30-1112@23451"
+        },
+        "ITC":{
+            "no_srn":"50PE30-1112@23451"
+        },
+        "default":{
+            "no_srn":"50PE30-1112@E50DA012"
+        }
+    },
+    "IDP_FASCINATING_3300_2.7.201":{
+        "CIC":{
+            "no_srn":"50PE30-1112@E50DA012"
+        },
+        "**CIC":{
+            "1":"50PE30-1112@33608 REC",
+            "default":"50PE30-1112@30008"
+        },
+        "MINICIC":{
+            "1":"50PE30-1112@E40DA020",
+            "2":"50PE30-1112@31570",
+            "0":"50PE30-1112@23451"
+        },
+        "ITC":{
+            "no_srn":"50PE30-1112@23451"
+        },
+        "default":{
+            "no_srn":"50PE30-1112@E50DA012"
+        }
+    },
+    "IDP_FASCINATING_2300_2.7.201":{
+        "CIC":{
+            "no_srn":"50PE30-1112@E50DA012"
+        },
+        "**CIC":{
+            "1":"50PE30-1112@33608 REC",
+            "default":"50PE30-1112@30008"
+        },
+        "MINICIC":{
+            "1":"50PE30-1112@E40DA020",
+            "2":"50PE30-1112@31570",
+            "0":"50PE30-1112@23451"
+        },
+        "ITC":{
+            "no_srn":"50PE30-1112@23451"
+        },
+        "default":{
+            "no_srn":"50PE30-1112@E50DA012"
+        }
+    },
+    "IDP_SEQUEL_15_2.7.201":{
+        "MINICIC":{
+            "1":"50PE30-1112@E40DA020",
+            "2":"50PE30-1112@31570",
+            "0":"50PE30-1112@23451"
+        },
+        "default":{
+            "no_srn":"50PE30-1112@23451"
+        }
+    },
+    "IDP_SEQUEL_13_2.7.201":{
+        "MINICIC":{
+            "1":"50PE30-1112@E40DA020",
+            "2":"50PE30-1112@31570",
+            "0":"50PE30-1112@23451"
+        },
+        "default":{
+            "no_srn":"50PE30-1112@23451"
+        }
+    },
+    "IDP_SEQUEL_12_2.7.201":{
+        "MINICIC":{
+            "1":"50PE30-1112@E40DA020",
+            "2":"50PE30-1112@31570",
+            "0":"50PE30-1112@23451"
+        },
+        "default":{
+            "no_srn":"50PE30-1112@23451"
+        }
+    },
+    "IDP_SEQUEL_11_2.7.201":{
+        "MINICIC":{
+            "1":"50PE30-1112@E40DA020",
+            "2":"50PE30-1112@31570",
+            "0":"50PE30-1112@23451"
+        },
+        "default":{
+            "no_srn":"50PE30-1112@23451"
+        }
+    },
+    "IDP_CHARM_N530_2.1.50":{
+        "CIC":{
+            "no_srn":"9446M@E50DA012"
+        },
+        "**CIC":{
+            "1":"9446M@33608 REC",
+            "default":"9446M@30008"
+        },
+        "MINICIC":{
+            "1":"65GB31T@E50DA012",
+            "2":"65GB31T@31570",
+            "0":"65GB31T@23451"
+        },
+        "ITC":{
+            "no_srn":"9446M@31570"
+        },
+        "ITE":{
+            "no_srn":"9446M@30008"
+        },
+        "HS":{
+            "no_srn":"9446M@31570"
+        },
+        "RIC":{
+            "no_srn":{
+                "M":"9446M@33726", 
+                "P":"9446M@31761" 
+            }
+        },
+        "default":{
+            "no_srn":"9446M@E50DA012"
+        }
+    },
+    "IDP_SKYLARK_630_2.7.201":{
+        "CIC":{
+            "no_srn":"9446M@E50DA012"
+        },
+        "**CIC":{
+            "1":"9446M@33608 REC",
+            "default":"9446M@30008"
+        },
+        "MINICIC":{
+            "1":"65GB31T@E50DA012",
+            "2":"65GB31T@31570",
+            "0":"65GB31T@23451"
+        },
+        "ITC":{
+            "no_srn":"9446M@31570"
+        },
+        "ITE":{
+            "no_srn":"9446M@30008"
+        },
+        "HS":{
+            "no_srn":"9446M@31570"
+        },
+        "RIC":{
+            "no_srn":{
+                "M":"9446M@33726", 
+                "P":"9446M@31761" 
+            }
+        },
+        "default":{
+            "no_srn":"9446M@E50DA012"
+        }
+    },
+    "IDP_CHARM_B230_2.1.50":{
+        "CIC":{
+            "no_srn":"9446M@31761"
+        },
+        "**CIC":{
+            "1":"9446M@33608 REC",
+            "default":"9446M@30008"
+        },
+        "ITC":{
+            "no_srn":"9446M@31570"
+        },
+        "ITE":{
+            "no_srn":"9446M@30008"
+        },
+        "HS":{
+            "no_srn":"9446M@27926"
+        },
+        "RIC":{
+            "no_srn":{
+                "M":"9446M@33726", 
+                "P":"9446M@31761" 
+            }
+        },
+        "default":{
+            "no_srn":"9446M@31761"
+        }
+    },
+    "IDP_SKYLARK_530_2.7.201":{
+        "CIC":{
+            "no_srn":"9446M@31761"
+        },
+        "**CIC":{
+            "1":"9446M@33608 REC",
+            "default":"9446M@30008"
+        },
+        "ITC":{
+            "no_srn":"9446M@31570"
+        },
+        "ITE":{
+            "no_srn":"9446M@30008"
+        },
+        "HS":{
+            "no_srn":"9446M@27926"
+        },
+        "RIC":{
+            "no_srn":{
+                "M":"9446M@33726", 
+                "P":"9446M@31761" 
+            }
+        },
+        "default":{
+            "no_srn":"9446M@31761"
+        }
+    },
+    "IDP_CHARM_E330_2.1.50":{
+        "CIC":{
+            "no_srn":"9446M@31761"
+        },
+        "**CIC":{
+            "1":"9446M@33608 REC",
+            "default":"9446M@30008"
+        },
+        "ITC":{
+            "no_srn":"9446M@31570"
+        },
+        "ITE":{
+            "no_srn":"9446M@30008"
+        },
+        "HS":{
+            "no_srn":"9446M@27926"
+        },
+        "RIC":{
+            "no_srn":{
+                "M":"9446M@33726", 
+                "P":"9446M@31761" 
+            }
+        },
+        "default":{
+            "no_srn":"9446M@31761"
+        }
+    },
+    "default":{
+        "CIC":{
+            "no_srn":"9446M@E50DA012"
+        },
+        "**CIC":{
+            "no_srn":"9446M@30008"
+        },
+        "MINICIC":{
+            "no_srn":"65GB31T@23451"
+        },
+        "ITC":{
+            "no_srn":"6950@31570"
+        },
+        "ITE":{
+            "no_srn":"6950@30008"
+        },
+        "default":{
+            "no_srn":"9446M@E50DA012"
+        }
+    }
+}

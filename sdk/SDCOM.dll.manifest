@@ -1,0 +1,8 @@
+<assembly manifestVersion="1.0" xmlns="urn:schemas-microsoft-com:asm.v1">
+	<file name="SDCOM.dll">
+		<comClass description="The product manager" threadingModel="Both" clsid="{FEFF55F6-9155-4009-B85A-739E7F3F0ACC}" progid="ARK.ProductManager">
+			<progid xmlns="">ARK.ProductManager.1</progid>
+		</comClass>
+
+	</file>
+</assembly>

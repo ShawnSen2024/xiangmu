@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug sdk_v2_writ",
+            "type": "debugpy",
+            "request": "launch",
+            "python": "D:\\Miniconda3\\envs\\py32_onsemi\\python.exe",
+            "program": "D:\\Work\\sdk_result_compare\\sdk_v2_writ.py",
+            "args": ["--start", "0", "--limit", "1"],
+            "cwd": "D:\\Work\\sdk_result_compare",
+            "console": "integratedTerminal",
+            "justMyCode": false
+        }
+    ]
+}
