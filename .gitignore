@@ -2,12 +2,3 @@
 *.pyc
 *.log
 .vscode/
-outputs/
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.bmp
-*.svg
-*.ico
-新建 文本文档.txt
